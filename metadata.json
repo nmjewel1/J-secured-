@@ -1,0 +1,8 @@
+{
+  "name": "J-Secure Admin & Dev Portal",
+  "description": "A high-security anti-theft protection suite roadmap and management dashboard.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
